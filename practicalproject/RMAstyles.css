@@ -1,0 +1,66 @@
+html,
+body {
+    height: 100%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+}
+
+.rmatitle {
+    padding: 3rem 0;
+    background-color: rgb(142, 159, 238);
+    text-align: center;
+}
+
+.rmatitlelogin {
+    padding: 1rem 0;
+    background-color: rgb(142, 159, 238);
+    text-align: center;
+}
+
+.login {
+    background-color: rgb(255, 255, 255);
+    padding: 3rem 1rem;
+    margin: 0 25rem;
+}
+
+.loginas {
+    text-align: center;
+}
+
+.btnaccounts {
+    text-align: center;
+    margin: 2em 0;
+}
+
+.teacher.student {
+    margin: 5rem 0;
+}
+
+
+/*Teacher login page*/
+
+.teachertitle {
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 2rem 0;
+}
+
+.container {
+    background-color: rgb(143, 155, 207);
+    padding: 3rem;
+    margin-top: 1rem;
+}
+
+.dashboard {
+    padding-top: 1rem;
+    text-align: center;
+}
+
+.teachercard {
+    margin: 0 20rem;
+}
+
+.studentcard {
+    margin: 0 20rem;
+}
